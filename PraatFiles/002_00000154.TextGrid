@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+0
+63.104
+<exists>
+8
+"TextTier"
+"Ring End"
+0
+63.104
+1
+16.110848589428006
+""
+"TextTier"
+"Live Start"
+0
+63.104
+1
+17.831213086698444
+""
+"TextTier"
+"Live End"
+0
+63.104
+1
+18.514645558216838
+""
+"TextTier"
+"Msg. Start"
+0
+63.104
+0
+"TextTier"
+"Msg. End"
+0
+63.104
+0
+"TextTier"
+"Beep Start"
+0
+63.104
+1
+45.688419713152705
+""
+"TextTier"
+"Beep End"
+0
+63.104
+1
+46.18331908907982
+""
+"IntervalTier"
+"Comments"
+0
+63.104
+1
+0
+63.104
+""
